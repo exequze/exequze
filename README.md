@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello, I'm Noah 
 
-<!--
-**exequze/exequze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Cyber Security Student** and **Information Security Officer**. I have a profound interest in technology, games and manwha. While my professional background lies in defensive security and governance, I am actively pivoting towards the offensive side to broaden my technical expertise.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objective
+I am currently exploring the offensive side of Cyber Security. My goal is to master the art of penetration testing, completing CTF's and achieving proficiency in Linux-based environments.
+
+## Education & Certification
+**B.Sc. Cyber Security** (Current Student)
+
+<div>
+    <img src="https://img.shields.io/badge/-Fortinet_Certified_Fundamentals_(FCF)-CC0000?&style=for-the-badge&logo=Fortinet&logoColor=white" />
+</div>
+
