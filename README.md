@@ -5,7 +5,7 @@ I am a **Cyber Security Student** and **Information Security Officer**. I have a
 ---
 
 ## Objective
-I am currently exploring the offensive side of Cyber Security. My goal is to master the art of penetration testing, completing CTF's and achieving proficiency in Linux-based environments.
+My goal is to master the art of penetration testing, completing CTF's and achieving proficiency in Linux-based environments.
 
 ## Education & Certification
 **B.Sc. Cyber Security** (Current Student)
