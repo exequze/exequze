@@ -7,10 +7,17 @@ I am a **Cyber Security Student** and **Information Security Officer**. I have a
 ## Objective
 My goal is to master the art of penetration testing, completing CTF's and achieving proficiency in Linux-based environments.
 
-## Education & Certification
-**B.Sc. Cyber Security** (Current Student)
+## Skills & Learning Path
 
-<div>
-    <img src="https://img.shields.io/badge/-Fortinet_Certified_Fundamentals_(FCF)-CC0000?&style=for-the-badge&logo=Fortinet&logoColor=white" />
-</div>
+| Focus Area | Status | Activity |
+| :--- | :--- | :--- |
+| **Information Security (GRC)** | Professional | ISO Operations & Compliance |
+| **Offensive Security** | Learning | TryHackMe, HackTheBox & PicoCTF  |
+| **Technical Foundation** | Learning | Achieving certifications to solidify baseline knowledge |
+| **Linux Skills** | Learning | Using Kali Linux for Labs |
 
+
+## Projects
+- [CTF-Writeups](https://github.com/exequze/writeups): My walk-throughs for CaptureTheFlag challenges.
+- [Homelab](https://github.com/exequze/homelab): Documentation how I set up my Homelab.
+- [Scripts](https://github.com/exequze/scripts): Scripts I wrote for educational purposes.
